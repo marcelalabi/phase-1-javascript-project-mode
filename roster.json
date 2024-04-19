@@ -1,0 +1,100 @@
+    {
+        "players": [
+        {
+        "id": 3,
+        "name": "KDB",
+        "position": "midfield",
+        "nationality": "Belgium",
+        "ability": "vision",
+        "goalsScored": 145
+        },
+        {
+        "id": 2,
+        "name": "Mbappe",
+        "position": "Forward",
+        "nationality": "France",
+        "ability": "speed",
+        "goalsScored": 300
+        },
+        {
+        "id": 1,
+        "name": "Neymar",
+        "position": "Forward",
+        "nationality": "Brazil",
+        "ability": "dribble",
+        "goalsScored": 400
+        },
+        {
+            "id": 8,
+            "name": "WanBissaka",
+            "position": "Defender",
+            "nationality": "England",
+            "ability": "slideTackle",
+            "goalsScored": 3
+        },
+        {
+            "id": 9,
+            "name": "vanDijk",
+            "position": "Defender",
+            "nationality": "Norway",
+            "ability": "strength",
+            "goalsScored": 23
+        },
+        {
+            "id": 7,
+            "name": "KyleWalker",
+            "position": "Defender",
+            "nationality": "England",
+            "ability": "speed",
+            "goalsScored": 10
+        },
+        {
+            "id": 10,
+            "name": "SergioRamos",
+            "position": "Defender",
+            "nationality": "Spain",
+            "ability": "defending",
+            "goalsScored": 120
+        },
+        {
+            "id": 6,
+            "name": "Musiala",
+            "position": "midfield",
+            "nationality": "Germany",
+            "ability": "dribble",
+            "goalsScored": 36
+        },
+        {
+            "id": 4,
+            "name": "Pogba",
+            "position": "CDM",
+            "nationality": "France",
+            "ability": "skills",
+            "goalsScored": 80
+        },
+        {
+            "id": 5,
+            "name": "Foden",
+            "position": "Forward",
+            "nationality": "England",
+            "ability": "touch",
+            "goalsScored": 80
+        },
+        {
+            "id": 11,
+            "name": "DeGea",
+            "position": "Goalkeeper",
+            "nationality": "Spain",
+            "ability": "reflex",
+            "cleanSheets": 150
+        },
+        {
+            "id": 12,
+            "name": "Nuer",
+            "position": "Goalkeeper",
+            "nationality": "Germany",
+            "ability": "reflex",
+            "cleanSheets": 178
+        }
+    ]
+    }   

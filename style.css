@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+body{
+    color:white;
+    margin: 20px;
+    padding: 20px;
+} 
+.team-header {
+    position: absolute;
+    top: 110px;
+    right: 80px;
+}
+.team-headerB {
+    position: absolute;
+    top: 570px;
+    right: 80px;
+}
+h3{
+    position: absolute;
+    top: 400px;
+    right: 110px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 25px;
+}
+.image {
+    width: 90px;
+    margin: right
+}
+#player-info {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    width: 300px; 
+    max-height: 200px; 
+    overflow-y: auto; 
+    display: none; 
+}
+
+/* Styling for the player-info div when visible */
+#player-info.visible {
+    display: block;
+}
